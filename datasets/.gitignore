@@ -1,0 +1,4 @@
+*.nc
+*.DS_store
+/datasets/dataset1
+/datasets/dataset2
