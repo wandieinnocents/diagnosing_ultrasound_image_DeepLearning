@@ -1,0 +1,4 @@
+-This dataset contains 224 image files.
+-They belong to 2 categories/classes; those with no chest opacity (normal) and those with chest opacities (sick)
+-Naming of the files has no relationship to the class of the file e.g image sick_effx.png may not necessarily belong to the sick class.
+-The category of each image file is defined in the csv file enclosed.

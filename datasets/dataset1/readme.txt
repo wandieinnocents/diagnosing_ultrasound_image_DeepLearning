@@ -1,0 +1,3 @@
+-This dataset contains 715 image files whose class is known (normal or sick). These images are found within the known_images directory.
+-It also consists of 50 image files whose class is unknown. The images will be used to test your model and hence assess you.
+-The class of the image is prefixed in the image file name e.g file normal_29.png belongs to the normal class while sick_357.png belongs to the sick class
